@@ -1,0 +1,23 @@
+{
+  "name": "merge-level",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HYONSU",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "json5": "^2.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdgustn/merge-level.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wjdgustn/merge-level/issues"
+  },
+  "homepage": "https://github.com/wjdgustn/merge-level#readme",
+  "description": ""
+}

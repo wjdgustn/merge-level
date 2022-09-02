@@ -1,0 +1,11 @@
+{
+  "song": "Ras_-_PrayStation.ogg",
+  "levels": [
+    "part1.adofai",
+    "part2.adofai",
+    "part3.adofai",
+    "part4.adofai",
+    "part5.adofai"
+  ],
+  "output": "partall.adofai"
+}
